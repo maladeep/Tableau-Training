@@ -1,4 +1,4 @@
-# Tableau-Training-
+# Tableau-Training
 Training resources for learning Tableau 
 
 
